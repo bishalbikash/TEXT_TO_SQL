@@ -1,0 +1,10 @@
+{
+    "What was the budget of Product 12?": "SELECT `2017_Budgets` FROM `2017_budgets` WHERE `Product_Name` = 'Product 12'",
+    "Show all product names.": "SELECT Product_Name FROM products;",
+    "List all customer names.": "SELECT Customer_Names FROM customers;",
+    "Show all regions and their states.": "SELECT name, state FROM regions;",
+    "What are the names of all products in the products table.": "SELECT Product_Name FROM products;",
+    "List all customer names from the customers table.": "SELECT Customer_Names FROM customers;",
+    "Find the name and state of all regions in the regions table.": "SELECT name, state FROM regions;",
+    "What is the name of the customer with Customer Index = 1.": "SELECT Customer_Names FROM customers WHERE Customer_Index = 1;"
+}
